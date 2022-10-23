@@ -1,0 +1,11 @@
+Step 1 ::
+	Expected Result ::
+	present Students are: Arjun Pooja
+	Absent Students are: Saran Venkat
+
+Step 2 ::
+	 Declare two array of string containing elements of array
+
+Step 3 ::
+	Using uniq -u command both array will be compared and result will be stored in 	TodayPresent Array  
+

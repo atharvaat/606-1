@@ -1,0 +1,10 @@
+Step 1 ::
+	Expected Result ::
+	Apple Grapes Mango orange
+
+Step 2 ::
+	Declare an array containing name of fruits and store that into an array named as Items
+
+Step 3 ::
+	Each and every element of array will get checked and all unique values from that 
+	array will be displayed	
